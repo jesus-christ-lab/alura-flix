@@ -1,0 +1,13 @@
+body{
+    color: rgb(185, 248, 211);
+    background:rgb(197, 176, 218);
+    margin: 0px;
+
+    }
+    header{
+        border-bottom: solid 2px, forestgreen;
+        padding: 20px;
+        font-size:32px;
+        color: burlywood
+
+    }
